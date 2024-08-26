@@ -10,7 +10,7 @@ Pour démarrer le front-end et le back-end, utilisez la commande : npm start. np
 ## Installation du projet et pré-requis
 
 Pour créer le projet React.js, utilisez la commande : npx create-react-app@latest front-end. 
-Installer axios : npm i axios
+Installer axios : npm i axios.
 Pour le back-end avec Node.js, j'ai généré le fichier package.json en exécutant : npm init -y
 
 Le fichier server.js se trouve dans le dossier back-end. J'ai installé les packages nécessaires suivants via npm : express, bcryptjs, jsonwebtoken, cors, et body-parser. 
