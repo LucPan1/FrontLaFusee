@@ -1,0 +1,26 @@
+.offscreen {
+    position: absolute; 
+    left: -9999px;     
+    visibility: hidden; 
+}
+
+.register-button {
+    border-width: 2px;
+    border-color: #4299e1;
+    color: #4299e1;
+    border-radius: 9999px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    display: inline-block;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.register-button:hover {
+    background-color: #4299e1;
+    color: white;
+    text-decoration: none;
+}

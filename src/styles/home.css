@@ -1,0 +1,95 @@
+.navbar {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center; 
+    background-color: white; 
+    padding: 10px 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.logo img {
+    height: 40px; 
+}
+
+
+.logout {
+    float: right;
+}
+
+.logout-button {
+    text-decoration: none; 
+    color: black; 
+    padding: 8px 15px; 
+    border-radius: 5px; 
+    font-weight: bold; 
+}
+
+.hero {
+    width: 100%;
+}
+
+.hero img {
+    width: 100%; 
+    height: auto; 
+}
+
+.content {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title {
+    color: #2f855a;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+
+.intro {
+    color: #4a5568;
+    margin-bottom: 2rem;
+}
+
+.steps-box {
+    background-color: #e6f4f1;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    position: relative;
+}
+
+.steps-list {
+    list-style-type: decimal;
+    margin-left: 1.5rem;
+}
+
+.steps-list li {
+    margin-bottom: 1rem;
+}
+
+.highlight {
+    color: #38a169;
+    font-weight: bold;
+}
+
+.icon {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.icon img {
+    width: 225px;
+    height: auto;
+}
+
